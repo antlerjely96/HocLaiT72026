@@ -1,0 +1,14 @@
+C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\obj\Debug\net8.0\HocLaiT72026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\obj\Debug\net8.0\HocLaiT72026.AssemblyInfoInputs.cache
+C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\obj\Debug\net8.0\HocLaiT72026.AssemblyInfo.cs
+C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\obj\Debug\net8.0\HocLaiT72026.csproj.CoreCompileInputs.cache
+C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\bin\Debug\net8.0\HocLaiT72026.exe
+C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\bin\Debug\net8.0\HocLaiT72026.deps.json
+C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\bin\Debug\net8.0\HocLaiT72026.runtimeconfig.json
+C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\bin\Debug\net8.0\HocLaiT72026.dll
+C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\bin\Debug\net8.0\HocLaiT72026.pdb
+C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\obj\Debug\net8.0\HocLaiT72026.dll
+C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\obj\Debug\net8.0\refint\HocLaiT72026.dll
+C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\obj\Debug\net8.0\HocLaiT72026.pdb
+C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\obj\Debug\net8.0\HocLaiT72026.genruntimeconfig.cache
+C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\obj\Debug\net8.0\ref\HocLaiT72026.dll
