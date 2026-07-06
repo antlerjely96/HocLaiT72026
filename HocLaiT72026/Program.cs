@@ -109,3 +109,21 @@ Console.WriteLine("x + y = " + (x + y));
 Console.WriteLine("x - y = " + (x - y));
 Console.WriteLine("x * y = " + (x * y));
 Console.WriteLine("x / y = " + (x / y));
+
+//Khai bao a
+int a1;
+//Nhap a
+Console.Write("a = ");
+a1 = int.Parse(Console.ReadLine());
+//Kiem tra a
+if (a1 > 0)
+{
+    Console.WriteLine(a1 + " la so duong");
+} else if (a1 < 0)
+{
+    Console.WriteLine(a1 + " la so am");
+}
+else
+{
+    Console.WriteLine("a = 0");
+}

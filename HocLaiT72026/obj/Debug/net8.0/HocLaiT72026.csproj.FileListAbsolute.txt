@@ -12,3 +12,4 @@ C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\obj\Debug\net8.0\refint\Ho
 C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\obj\Debug\net8.0\HocLaiT72026.pdb
 C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\obj\Debug\net8.0\HocLaiT72026.genruntimeconfig.cache
 C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\obj\Debug\net8.0\ref\HocLaiT72026.dll
+C:\Users\DELL\RiderProjects\HocLaiT72026\HocLaiT72026\obj\Debug\net8.0\HocLaiT72026.sourcelink.json
