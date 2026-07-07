@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HocLaiT72026")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd156e45651fd3d0be923d1ab520ed83af4034a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+070805fbfd5fcc6d1a584e9246b14292cbee51ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("HocLaiT72026")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HocLaiT72026")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
