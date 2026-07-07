@@ -57,6 +57,16 @@ public class Loop
                 Khi trả về false thì vòng lặp kết thúc
             Tham số 3: Bước nhảy của vòng lặp => không có tham số 3: vòng lặp vô hạn
                 Tác dụng: thay đổi tham số 1
+                
+            - Vòng lặp lồng nhau (nested loop)
+            for(){
+                for(){
+                    while(){
+                        do {
+                        } while();
+                    }
+                }
+            }
         */
         
         /* 1. In ra các số từ 1 đến 100 */
@@ -141,7 +151,6 @@ public class Loop
                 giaiThua *= i;
             }
             Console.WriteLine(b + "! = " + giaiThua);
-            
         }
         
     }
