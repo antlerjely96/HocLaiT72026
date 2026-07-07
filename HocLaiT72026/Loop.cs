@@ -86,5 +86,63 @@ public class Loop
             Console.Write(i + "\t");
             i++;
         } while (i <= 100);
+        Console.WriteLine();
+        /*
+            2. Nhập số nguyên n từ bàn phím. In ra các số từ 1 đến n
+        */
+        //Khai báo n
+        int n;
+        //Nhập n
+        Console.Write("n = ");
+        n = int.Parse(Console.ReadLine());
+        //Vòng lặp từ 1 đến n
+        for (i = 1; i <= n; i++)
+        {
+            Console.Write(i + "\t");
+        }
+        Console.WriteLine();
+        
+        /*
+            3. Nhập số nguyên a từ bàn phím.
+            Tính tổng các số từ 1 đến a       
+        */
+        //Khai báo a
+        int a;
+        //Nhap
+        Console.Write("a = ");
+        a = int.Parse(Console.ReadLine());
+        int tong = 0;
+        //Vòng lặp
+        for (i = 1; i <= n; i++)
+        {
+            tong += i;
+        }
+        //Hiển thị kết quả
+        Console.WriteLine("Tong cac so tu 1 den n: " + tong);
+        
+        /*
+            4. Nhập số nguyên b từ bàn phím. Tính b!
+        */
+        //Khai báo b
+        int b;
+        //Nhap b
+        Console.Write("b = ");
+        b = int.Parse(Console.ReadLine());
+        int giaiThua = 1;
+        //Kiem tra
+        if (b < 0)
+        {
+            Console.WriteLine("Khong co giai thua");
+        }
+        else
+        {
+            for (i = 1; i <= b; i++)
+            {
+                giaiThua *= i;
+            }
+            Console.WriteLine(b + "! = " + giaiThua);
+            
+        }
+        
     }
 }
